@@ -1,0 +1,16 @@
+{
+  "name": "a2studapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "studentApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node studentApp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
